@@ -1,0 +1,6 @@
+tdmq:
+  enable: true
+  serviceUrl: serviceUrl
+  token: token
+  clusterId: clusterId
+  environmentId: environmentId
